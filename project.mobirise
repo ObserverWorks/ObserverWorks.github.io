@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "drinks.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2223,7 +2223,7 @@
         }
       ]
     },
-    "page5.html": {
+    "drinks.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "drinks",
